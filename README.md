@@ -1,4 +1,4 @@
-# Parkinsons Prediction Using Linear Algebra Techniques
+# Parkinson's Prediction Using Linear Algebra Techniques
 
 
 ## ABSTRACT
